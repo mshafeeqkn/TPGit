@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include "fun.h"
 
-//
 int main(int argc, char **argv) {
     printf("This project is for learning git\n");
 

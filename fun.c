@@ -9,3 +9,7 @@ int get_first_even() {
 int get_first_prime() {
     return 2;
 }
+
+void test() {
+    printf("This is test function\n");
+}
