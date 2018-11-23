@@ -7,4 +7,6 @@ int get_first_even();
 
 int get_first_prime();
 
+void test();
+
 #endif
